@@ -9,7 +9,7 @@ Production agentic systems, LLM evaluation, RAG pipelines, AI governance — the
 1. NVIDIA Enterprise Platform Advisor (1 of 33 globally)
 2. Women in AI NY State Ambassador
 3. HearstLab VC Scout
-4. Mentor @ Money20/20,
+4. Mentor @ Money20/20
 5. Top 1% NA Data Coach at Topmate; 170+ professionals mentored into AI careers
 
 **And**,
