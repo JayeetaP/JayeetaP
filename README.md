@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jayeeta Putatunda
 
-<!--
-**JayeetaP/JayeetaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Director - AI CoE at a large regulated financial services firm. Production agentic systems, LLM evaluation, RAG pipelines, AI governance — the parts most demos skip.
 
-Here are some ideas to get you started:
+1. NVIDIA Enterprise Platform Advisor (1 of 33 globally)
+2. Women in AI NY State Ambassador
+3. HearstLab VC Scout
+4. Mentor @ Money20/20,
+5. Top 1% NA Data Coach at Topmate; 170+ professionals mentored into AI careers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+60+ talks. Published at ACM ICAIF and AAAI. Technical reviewer for NeurIPS, COLING, IEEE EDUCON. 
+
+**Tech:** Python · LangChain · LangGraph · vector databases · transformer models · evaluation frameworks · open-source LLMs
+
+[Website](https://jayeetap.github.io/jayeeta-putatunda/) · [LinkedIn](https://www.linkedin.com/in/jayeetaputatunda/)
